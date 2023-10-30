@@ -13,9 +13,10 @@ function App() {
         <Cursor/>
         <Clients/>
         <Contact/>
+        <Footer/>
+
       </div>
       <div className={`bg-[#161615] w-full`}>
-        <Footer/>
       </div>
     </div>
   );
